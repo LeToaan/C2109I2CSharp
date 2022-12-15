@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\SwitchForWhile\bin\Debug\net7.0\SwitchForWhile.exe
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\SwitchForWhile\bin\Debug\net7.0\SwitchForWhile.deps.json
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\SwitchForWhile\bin\Debug\net7.0\SwitchForWhile.runtimeconfig.json
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\SwitchForWhile\bin\Debug\net7.0\SwitchForWhile.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\SwitchForWhile\bin\Debug\net7.0\SwitchForWhile.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\SwitchForWhile\obj\Debug\net7.0\SwitchForWhile.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\SwitchForWhile\obj\Debug\net7.0\SwitchForWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\SwitchForWhile\obj\Debug\net7.0\SwitchForWhile.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\SwitchForWhile\obj\Debug\net7.0\SwitchForWhile.AssemblyInfo.cs
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\SwitchForWhile\obj\Debug\net7.0\SwitchForWhile.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\SwitchForWhile\obj\Debug\net7.0\SwitchForWhile.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\SwitchForWhile\obj\Debug\net7.0\refint\SwitchForWhile.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\SwitchForWhile\obj\Debug\net7.0\SwitchForWhile.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\SwitchForWhile\obj\Debug\net7.0\SwitchForWhile.genruntimeconfig.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\SwitchForWhile\obj\Debug\net7.0\ref\SwitchForWhile.dll
