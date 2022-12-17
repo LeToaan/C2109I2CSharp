@@ -1,5 +1,4 @@
-﻿using RefOutRegexTryParse;
-using System.Text;
+﻿
 
 //int a = 10;
 //int b = 5;
@@ -21,4 +20,5 @@ Console.WriteLine($"{nameof(a)}={a}, {nameof(b)}={b}");
 //target-type => c# mới
 RegexTryParse p = new();
 //p.checkNumberByRegex();
-p.checkStringByTryParse();
+//p.checkStringByTryParse();
+p.tryCatchBug();
