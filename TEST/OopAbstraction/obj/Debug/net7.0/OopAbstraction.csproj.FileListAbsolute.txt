@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\OopAbstraction\bin\Debug\net7.0\OopAbstraction.exe
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\OopAbstraction\bin\Debug\net7.0\OopAbstraction.deps.json
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\OopAbstraction\bin\Debug\net7.0\OopAbstraction.runtimeconfig.json
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\OopAbstraction\bin\Debug\net7.0\OopAbstraction.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\OopAbstraction\bin\Debug\net7.0\OopAbstraction.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\OopAbstraction\obj\Debug\net7.0\OopAbstraction.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\OopAbstraction\obj\Debug\net7.0\OopAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\OopAbstraction\obj\Debug\net7.0\OopAbstraction.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\OopAbstraction\obj\Debug\net7.0\OopAbstraction.AssemblyInfo.cs
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\OopAbstraction\obj\Debug\net7.0\OopAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\OopAbstraction\obj\Debug\net7.0\OopAbstraction.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\OopAbstraction\obj\Debug\net7.0\refint\OopAbstraction.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\OopAbstraction\obj\Debug\net7.0\OopAbstraction.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\OopAbstraction\obj\Debug\net7.0\OopAbstraction.genruntimeconfig.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\TEST\OopAbstraction\obj\Debug\net7.0\ref\OopAbstraction.dll
