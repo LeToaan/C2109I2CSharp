@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\C2109I2CSharp\Exam_QLSV\Exam_QLSV\obj\Debug\net7.0\Exam_QLSV.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\Exam_QLSV\Exam_QLSV\obj\Debug\net7.0\Exam_QLSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\C2109I2CSharp\Exam_QLSV\Exam_QLSV\obj\Debug\net7.0\Exam_QLSV.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\Exam_QLSV\Exam_QLSV\obj\Debug\net7.0\Exam_QLSV.AssemblyInfo.cs
+C:\Users\ACER\source\repos\C2109I2CSharp\Exam_QLSV\Exam_QLSV\obj\Debug\net7.0\Exam_QLSV.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\Exam_QLSV\Exam_QLSV\bin\Debug\net7.0\Exam_QLSV.exe
+C:\Users\ACER\source\repos\C2109I2CSharp\Exam_QLSV\Exam_QLSV\bin\Debug\net7.0\Exam_QLSV.deps.json
+C:\Users\ACER\source\repos\C2109I2CSharp\Exam_QLSV\Exam_QLSV\bin\Debug\net7.0\Exam_QLSV.runtimeconfig.json
+C:\Users\ACER\source\repos\C2109I2CSharp\Exam_QLSV\Exam_QLSV\bin\Debug\net7.0\Exam_QLSV.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\Exam_QLSV\Exam_QLSV\bin\Debug\net7.0\Exam_QLSV.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\Exam_QLSV\Exam_QLSV\obj\Debug\net7.0\Exam_QLSV.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\Exam_QLSV\Exam_QLSV\obj\Debug\net7.0\refint\Exam_QLSV.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\Exam_QLSV\Exam_QLSV\obj\Debug\net7.0\Exam_QLSV.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\Exam_QLSV\Exam_QLSV\obj\Debug\net7.0\Exam_QLSV.genruntimeconfig.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\Exam_QLSV\Exam_QLSV\obj\Debug\net7.0\ref\Exam_QLSV.dll
