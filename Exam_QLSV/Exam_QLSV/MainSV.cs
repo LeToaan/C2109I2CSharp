@@ -38,7 +38,7 @@ internal class MainSV : ISinhVien
        
     }
 
-    public void RemoveStu()
+    public virtual void RemoveStu()
     {
         int i =0;
         Console.WriteLine("Input number id you want delete: ");
@@ -69,7 +69,7 @@ internal class MainSV : ISinhVien
 
     }
 
-    public void SearchStu()
+    public virtual void SearchStu()
     {
         throw new NotImplementedException();
     }
@@ -82,12 +82,12 @@ internal class MainSV : ISinhVien
         }
     }
 
-    public void SortList()
+    public virtual void SortList()
     {
         throw new NotImplementedException();
     }
 
-    public void UpdateStu()
+    public virtual void UpdateStu()
     {
         throw new NotImplementedException();
     }
