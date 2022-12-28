@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\QuanLySinhVien",
+    "\\QuanLySinhVien\\Data",
+    "\\QuanLySinhVien\\UI"
   ],
   "PreviewInSolutionExplorer": false
 }

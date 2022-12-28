@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exam_QLSV;
+namespace Exam_QLSV.UI;
 internal interface ISinhVien
 {
     void AddStu();
