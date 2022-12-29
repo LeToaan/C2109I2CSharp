@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Exam_QLSV.DATA;
+using Exam_QLSV.UI;
 
 namespace Exam_QLSV;
 internal class MainSV : ISinhVien
