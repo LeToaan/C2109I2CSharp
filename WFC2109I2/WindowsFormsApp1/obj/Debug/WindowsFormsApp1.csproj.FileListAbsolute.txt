@@ -1,12 +1,11 @@
-C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
-C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
-C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
 C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
 C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
 C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
 C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
 C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
 C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
-C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
-C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
