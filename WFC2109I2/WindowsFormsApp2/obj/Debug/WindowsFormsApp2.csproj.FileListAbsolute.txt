@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\WFC2109I2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
