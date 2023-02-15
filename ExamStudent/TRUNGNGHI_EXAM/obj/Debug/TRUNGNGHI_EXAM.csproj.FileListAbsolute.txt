@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\C2109I2CSharp\ExamStudent\TRUNGNGHI_EXAM\bin\Debug\TRUNGNGHI_EXAM.exe.config
+C:\Users\ACER\source\repos\C2109I2CSharp\ExamStudent\TRUNGNGHI_EXAM\bin\Debug\TRUNGNGHI_EXAM.exe
+C:\Users\ACER\source\repos\C2109I2CSharp\ExamStudent\TRUNGNGHI_EXAM\bin\Debug\TRUNGNGHI_EXAM.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\ExamStudent\TRUNGNGHI_EXAM\obj\Debug\TRUNGNGHI_EXAM.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\ExamStudent\TRUNGNGHI_EXAM\obj\Debug\TRUNGNGHI_EXAM.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\ExamStudent\TRUNGNGHI_EXAM\obj\Debug\TRUNGNGHI_EXAM.Form1.resources
+C:\Users\ACER\source\repos\C2109I2CSharp\ExamStudent\TRUNGNGHI_EXAM\obj\Debug\TRUNGNGHI_EXAM.Properties.Resources.resources
+C:\Users\ACER\source\repos\C2109I2CSharp\ExamStudent\TRUNGNGHI_EXAM\obj\Debug\TRUNGNGHI_EXAM.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\ExamStudent\TRUNGNGHI_EXAM\obj\Debug\TRUNGNGHI_EXAM.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\ExamStudent\TRUNGNGHI_EXAM\obj\Debug\TRUNGNGHI_EXAM.exe
+C:\Users\ACER\source\repos\C2109I2CSharp\ExamStudent\TRUNGNGHI_EXAM\obj\Debug\TRUNGNGHI_EXAM.pdb

@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\C2109I2CSharp\EXAM_NGHI_C2109I2\EXAM_NGHI_C2109I2\obj\Debug\EXAM_NGHI_C2109I2.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\EXAM_NGHI_C2109I2\EXAM_NGHI_C2109I2\obj\Debug\EXAM_NGHI_C2109I2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\EXAM_NGHI_C2109I2\EXAM_NGHI_C2109I2\obj\Debug\EXAM_NGHI_C2109I2.Form1.resources
+C:\Users\ACER\source\repos\C2109I2CSharp\EXAM_NGHI_C2109I2\EXAM_NGHI_C2109I2\obj\Debug\EXAM_NGHI_C2109I2.Properties.Resources.resources
+C:\Users\ACER\source\repos\C2109I2CSharp\EXAM_NGHI_C2109I2\EXAM_NGHI_C2109I2\obj\Debug\EXAM_NGHI_C2109I2.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\EXAM_NGHI_C2109I2\EXAM_NGHI_C2109I2\obj\Debug\EXAM_NGHI_C2109I2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\EXAM_NGHI_C2109I2\EXAM_NGHI_C2109I2\bin\Debug\EXAM_NGHI_C2109I2.exe.config
+C:\Users\ACER\source\repos\C2109I2CSharp\EXAM_NGHI_C2109I2\EXAM_NGHI_C2109I2\bin\Debug\EXAM_NGHI_C2109I2.exe
+C:\Users\ACER\source\repos\C2109I2CSharp\EXAM_NGHI_C2109I2\EXAM_NGHI_C2109I2\bin\Debug\EXAM_NGHI_C2109I2.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\EXAM_NGHI_C2109I2\EXAM_NGHI_C2109I2\obj\Debug\EXAM_NGHI_C2109I2.exe
+C:\Users\ACER\source\repos\C2109I2CSharp\EXAM_NGHI_C2109I2\EXAM_NGHI_C2109I2\obj\Debug\EXAM_NGHI_C2109I2.pdb

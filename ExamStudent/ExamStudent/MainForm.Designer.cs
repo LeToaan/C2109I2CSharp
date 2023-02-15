@@ -45,6 +45,7 @@
             this.bindingNavigatorMoveLastItem = new System.Windows.Forms.ToolStripButton();
             this.bindingNavigatorSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripTextBox1 = new System.Windows.Forms.ToolStripTextBox();
             this.textCode = new System.Windows.Forms.TextBox();
             this.textName = new System.Windows.Forms.TextBox();
             this.textAddress = new System.Windows.Forms.TextBox();
@@ -70,7 +71,6 @@
             this.textEmail = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
-            this.toolStripTextBox1 = new System.Windows.Forms.ToolStripTextBox();
             this.btnRefesh = new System.Windows.Forms.Button();
             this.btnListDel = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -126,7 +126,7 @@
             this.bindingNavigator1.MovePreviousItem = this.bindingNavigatorMovePreviousItem;
             this.bindingNavigator1.Name = "bindingNavigator1";
             this.bindingNavigator1.PositionItem = this.bindingNavigatorPositionItem;
-            this.bindingNavigator1.Size = new System.Drawing.Size(357, 25);
+            this.bindingNavigator1.Size = new System.Drawing.Size(388, 25);
             this.bindingNavigator1.TabIndex = 1;
             this.bindingNavigator1.Text = "bindingNavigator1";
             // 
@@ -206,6 +206,13 @@
             this.toolStripButton1.Name = "toolStripButton1";
             this.toolStripButton1.Size = new System.Drawing.Size(46, 22);
             this.toolStripButton1.Text = "Search";
+            // 
+            // toolStripTextBox1
+            // 
+            this.toolStripTextBox1.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.toolStripTextBox1.Name = "toolStripTextBox1";
+            this.toolStripTextBox1.Size = new System.Drawing.Size(100, 25);
+            this.toolStripTextBox1.TextChanged += new System.EventHandler(this.toolStripTextBox1_TextChanged);
             // 
             // textCode
             // 
@@ -422,13 +429,6 @@
             this.label11.Size = new System.Drawing.Size(46, 16);
             this.label11.TabIndex = 32;
             this.label11.Text = "Id Stu";
-            // 
-            // toolStripTextBox1
-            // 
-            this.toolStripTextBox1.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.toolStripTextBox1.Name = "toolStripTextBox1";
-            this.toolStripTextBox1.Size = new System.Drawing.Size(100, 25);
-            this.toolStripTextBox1.TextChanged += new System.EventHandler(this.toolStripTextBox1_TextChanged);
             // 
             // btnRefesh
             // 
